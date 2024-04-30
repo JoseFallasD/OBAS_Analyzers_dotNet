@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\ObasAnalyzerCSharp\ObasAnalyzerCSharp\ObasAnalyzerCSharp.Package\bin\Debug\netstandard2.0\tools\install.ps1
+C:\Users\Admin\source\repos\ObasAnalyzerCSharp\ObasAnalyzerCSharp\ObasAnalyzerCSharp.Package\bin\Debug\netstandard2.0\tools\uninstall.ps1
+C:\Users\Admin\source\repos\ObasAnalyzerCSharp\ObasAnalyzerCSharp\ObasAnalyzerCSharp.Package\bin\Debug\netstandard2.0\ObasAnalyzerCSharp.Package.deps.json
+C:\Users\Admin\source\repos\ObasAnalyzerCSharp\ObasAnalyzerCSharp\ObasAnalyzerCSharp.Package\bin\Debug\netstandard2.0\ObasAnalyzerCSharp.Package.dll
+C:\Users\Admin\source\repos\ObasAnalyzerCSharp\ObasAnalyzerCSharp\ObasAnalyzerCSharp.Package\bin\Debug\netstandard2.0\ObasAnalyzerCSharp.Package.pdb
+C:\Users\Admin\source\repos\ObasAnalyzerCSharp\ObasAnalyzerCSharp\ObasAnalyzerCSharp.Package\bin\Debug\netstandard2.0\ObasAnalyzerCSharp.CodeFixes.dll
+C:\Users\Admin\source\repos\ObasAnalyzerCSharp\ObasAnalyzerCSharp\ObasAnalyzerCSharp.Package\bin\Debug\netstandard2.0\ObasAnalyzerCSharp.dll
+C:\Users\Admin\source\repos\ObasAnalyzerCSharp\ObasAnalyzerCSharp\ObasAnalyzerCSharp.Package\bin\Debug\netstandard2.0\ObasAnalyzerCSharp.CodeFixes.pdb
+C:\Users\Admin\source\repos\ObasAnalyzerCSharp\ObasAnalyzerCSharp\ObasAnalyzerCSharp.Package\bin\Debug\netstandard2.0\ObasAnalyzerCSharp.pdb
+C:\Users\Admin\source\repos\ObasAnalyzerCSharp\ObasAnalyzerCSharp\ObasAnalyzerCSharp.Package\obj\Debug\netstandard2.0\ObasAnalyzerCSharp.Package.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ObasAnalyzerCSharp\ObasAnalyzerCSharp\ObasAnalyzerCSharp.Package\obj\Debug\netstandard2.0\ObasAnalyzerCSharp.Package.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ObasAnalyzerCSharp\ObasAnalyzerCSharp\ObasAnalyzerCSharp.Package\obj\Debug\netstandard2.0\ObasAnalyzerCSharp.Package.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ObasAnalyzerCSharp\ObasAnalyzerCSharp\ObasAnalyzerCSharp.Package\obj\Debug\netstandard2.0\ObasAnalyzerCSharp.Package.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ObasAnalyzerCSharp\ObasAnalyzerCSharp\ObasAnalyzerCSharp.Package\obj\Debug\netstandard2.0\ObasAnalyzerCSharp.Package.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ObasAnalyzerCSharp\ObasAnalyzerCSharp\ObasAnalyzerCSharp.Package\obj\Debug\netstandard2.0\ObasAnalyzerCSharp.Package.csproj.CopyComplete
+C:\Users\Admin\source\repos\ObasAnalyzerCSharp\ObasAnalyzerCSharp\ObasAnalyzerCSharp.Package\obj\Debug\netstandard2.0\ObasAnalyzerCSharp.Package.dll
+C:\Users\Admin\source\repos\ObasAnalyzerCSharp\ObasAnalyzerCSharp\ObasAnalyzerCSharp.Package\obj\Debug\netstandard2.0\ObasAnalyzerCSharp.Package.pdb

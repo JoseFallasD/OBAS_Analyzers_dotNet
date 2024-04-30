@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\ObasAnalyzerCSharp\ObasAnalyzerCSharp\ObasAnalyzerCSharp.CodeFixes\bin\Debug\netstandard2.0\ObasAnalyzerCSharp.CodeFixes.deps.json
+C:\Users\Admin\source\repos\ObasAnalyzerCSharp\ObasAnalyzerCSharp\ObasAnalyzerCSharp.CodeFixes\bin\Debug\netstandard2.0\ObasAnalyzerCSharp.CodeFixes.dll
+C:\Users\Admin\source\repos\ObasAnalyzerCSharp\ObasAnalyzerCSharp\ObasAnalyzerCSharp.CodeFixes\bin\Debug\netstandard2.0\ObasAnalyzerCSharp.CodeFixes.pdb
+C:\Users\Admin\source\repos\ObasAnalyzerCSharp\ObasAnalyzerCSharp\ObasAnalyzerCSharp.CodeFixes\bin\Debug\netstandard2.0\ObasAnalyzerCSharp.dll
+C:\Users\Admin\source\repos\ObasAnalyzerCSharp\ObasAnalyzerCSharp\ObasAnalyzerCSharp.CodeFixes\bin\Debug\netstandard2.0\ObasAnalyzerCSharp.pdb
+C:\Users\Admin\source\repos\ObasAnalyzerCSharp\ObasAnalyzerCSharp\ObasAnalyzerCSharp.CodeFixes\obj\Debug\netstandard2.0\ObasAnalyzerCSharp.CodeFixes.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ObasAnalyzerCSharp\ObasAnalyzerCSharp\ObasAnalyzerCSharp.CodeFixes\obj\Debug\netstandard2.0\ObasAnalyzerCSharp.CodeFixResources.resources
+C:\Users\Admin\source\repos\ObasAnalyzerCSharp\ObasAnalyzerCSharp\ObasAnalyzerCSharp.CodeFixes\obj\Debug\netstandard2.0\ObasAnalyzerCSharp.CodeFixes.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ObasAnalyzerCSharp\ObasAnalyzerCSharp\ObasAnalyzerCSharp.CodeFixes\obj\Debug\netstandard2.0\ObasAnalyzerCSharp.CodeFixes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ObasAnalyzerCSharp\ObasAnalyzerCSharp\ObasAnalyzerCSharp.CodeFixes\obj\Debug\netstandard2.0\ObasAnalyzerCSharp.CodeFixes.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ObasAnalyzerCSharp\ObasAnalyzerCSharp\ObasAnalyzerCSharp.CodeFixes\obj\Debug\netstandard2.0\ObasAnalyzerCSharp.CodeFixes.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ObasAnalyzerCSharp\ObasAnalyzerCSharp\ObasAnalyzerCSharp.CodeFixes\obj\Debug\netstandard2.0\ObasAnalyzerCSharp.CodeFixes.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ObasAnalyzerCSharp\ObasAnalyzerCSharp\ObasAnalyzerCSharp.CodeFixes\obj\Debug\netstandard2.0\ObasAnalyzerCSharp.CodeFixes.csproj.CopyComplete
+C:\Users\Admin\source\repos\ObasAnalyzerCSharp\ObasAnalyzerCSharp\ObasAnalyzerCSharp.CodeFixes\obj\Debug\netstandard2.0\ObasAnalyzerCSharp.CodeFixes.dll
+C:\Users\Admin\source\repos\ObasAnalyzerCSharp\ObasAnalyzerCSharp\ObasAnalyzerCSharp.CodeFixes\obj\Debug\netstandard2.0\ObasAnalyzerCSharp.CodeFixes.pdb

@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObasAnalyzerCSharp", "ObasAnalyzerCSharp\ObasAnalyzerCSharp\ObasAnalyzerCSharp.csproj", "{44F1D44B-C112-465E-BD62-16461DB99802}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObasAnalyzerCSharp.CodeFixes", "ObasAnalyzerCSharp\ObasAnalyzerCSharp.CodeFixes\ObasAnalyzerCSharp.CodeFixes.csproj", "{FD1F07F4-53FB-47C3-9F1B-2D41B69B4413}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObasAnalyzerCSharp.Package", "ObasAnalyzerCSharp\ObasAnalyzerCSharp.Package\ObasAnalyzerCSharp.Package.csproj", "{3976B243-A825-4DF1-A931-B2BFE3FDA020}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObasAnalyzerCSharp.Test", "ObasAnalyzerCSharp\ObasAnalyzerCSharp.Test\ObasAnalyzerCSharp.Test.csproj", "{7C1CB233-7A4F-4C05-A43B-FA15E10E5E6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObasAnalyzerCSharp.Vsix", "ObasAnalyzerCSharp\ObasAnalyzerCSharp.Vsix\ObasAnalyzerCSharp.Vsix.csproj", "{CD239416-A5EE-4901-9A23-CF494C2D6078}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44F1D44B-C112-465E-BD62-16461DB99802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44F1D44B-C112-465E-BD62-16461DB99802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44F1D44B-C112-465E-BD62-16461DB99802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44F1D44B-C112-465E-BD62-16461DB99802}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD1F07F4-53FB-47C3-9F1B-2D41B69B4413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD1F07F4-53FB-47C3-9F1B-2D41B69B4413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD1F07F4-53FB-47C3-9F1B-2D41B69B4413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD1F07F4-53FB-47C3-9F1B-2D41B69B4413}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3976B243-A825-4DF1-A931-B2BFE3FDA020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3976B243-A825-4DF1-A931-B2BFE3FDA020}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3976B243-A825-4DF1-A931-B2BFE3FDA020}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3976B243-A825-4DF1-A931-B2BFE3FDA020}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C1CB233-7A4F-4C05-A43B-FA15E10E5E6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C1CB233-7A4F-4C05-A43B-FA15E10E5E6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C1CB233-7A4F-4C05-A43B-FA15E10E5E6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C1CB233-7A4F-4C05-A43B-FA15E10E5E6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD239416-A5EE-4901-9A23-CF494C2D6078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD239416-A5EE-4901-9A23-CF494C2D6078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD239416-A5EE-4901-9A23-CF494C2D6078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD239416-A5EE-4901-9A23-CF494C2D6078}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5BD311C-407D-429E-91B7-A55C1FE4D1B0}
+	EndGlobalSection
+EndGlobal

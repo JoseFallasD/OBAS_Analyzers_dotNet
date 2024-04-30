@@ -1,0 +1,6 @@
+C:\Users\Admin\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\Admin\ObasAnalyzerVB\1.0\\ObasAnalyzerVB.dll
+C:\Users\Admin\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\Admin\ObasAnalyzerVB\1.0\\extension.vsixmanifest
+C:\Users\Admin\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\Admin\ObasAnalyzerVB\1.0\\Diagnostic.nuspec
+C:\Users\Admin\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\Admin\ObasAnalyzerVB\1.0\\tools\install.ps1
+C:\Users\Admin\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\Admin\ObasAnalyzerVB\1.0\\tools\uninstall.ps1
+C:\Users\Admin\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\Admin\ObasAnalyzerVB\1.0\\ObasAnalyzerVB.pdb

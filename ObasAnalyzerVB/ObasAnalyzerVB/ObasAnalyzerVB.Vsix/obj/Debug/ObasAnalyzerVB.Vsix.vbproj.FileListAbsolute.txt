@@ -1,0 +1,11 @@
+c:\users\admin\documents\visual studio 2015\Projects\ObasAnalyzerVB\ObasAnalyzerVB\ObasAnalyzerVB.Vsix\obj\Debug\ObasAnalyzerVB.Vsix.vbprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\ObasAnalyzerVB\ObasAnalyzerVB\ObasAnalyzerVB.Vsix\bin\Debug\Diagnostic.nuspec
+c:\users\admin\documents\visual studio 2015\Projects\ObasAnalyzerVB\ObasAnalyzerVB\ObasAnalyzerVB.Vsix\bin\Debug\tools\install.ps1
+c:\users\admin\documents\visual studio 2015\Projects\ObasAnalyzerVB\ObasAnalyzerVB\ObasAnalyzerVB.Vsix\bin\Debug\tools\uninstall.ps1
+c:\users\admin\documents\visual studio 2015\Projects\ObasAnalyzerVB\ObasAnalyzerVB\ObasAnalyzerVB.Vsix\bin\Debug\ObasAnalyzerVB.Vsix.vsix
+c:\users\admin\documents\visual studio 2015\Projects\ObasAnalyzerVB\ObasAnalyzerVB\ObasAnalyzerVB.Vsix\bin\Debug\extension.vsixmanifest
+c:\users\admin\documents\visual studio 2015\Projects\ObasAnalyzerVB\ObasAnalyzerVB\ObasAnalyzerVB.Vsix\bin\Debug\ObasAnalyzerVB.dll
+c:\users\admin\documents\visual studio 2015\Projects\ObasAnalyzerVB\ObasAnalyzerVB\ObasAnalyzerVB.Vsix\bin\Debug\ObasAnalyzerVB.pdb
+c:\users\admin\documents\visual studio 2015\Projects\ObasAnalyzerVB\ObasAnalyzerVB\ObasAnalyzerVB.Vsix\obj\Debug\ObasAnalyzerVB.Vsix.dll
+c:\users\admin\documents\visual studio 2015\Projects\ObasAnalyzerVB\ObasAnalyzerVB\ObasAnalyzerVB.Vsix\obj\Debug\ObasAnalyzerVB.Vsix.pdb
+c:\users\admin\documents\visual studio 2015\Projects\ObasAnalyzerVB\ObasAnalyzerVB\ObasAnalyzerVB.Vsix\obj\Debug\extension.vsixmanifest

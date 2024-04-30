@@ -1,0 +1,10 @@
+c:\users\admin\documents\visual studio 2015\Projects\ObasAnalyzerVB\ObasAnalyzerVB\ObasAnalyzerVB\obj\Debug\ObasAnalyzerVB.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\ObasAnalyzerVB\ObasAnalyzerVB\ObasAnalyzerVB\obj\Debug\ObasAnalyzerVB.vbproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\ObasAnalyzerVB\ObasAnalyzerVB\ObasAnalyzerVB\bin\Debug\Diagnostic.nuspec
+c:\users\admin\documents\visual studio 2015\Projects\ObasAnalyzerVB\ObasAnalyzerVB\ObasAnalyzerVB\bin\Debug\tools\install.ps1
+c:\users\admin\documents\visual studio 2015\Projects\ObasAnalyzerVB\ObasAnalyzerVB\ObasAnalyzerVB\bin\Debug\tools\uninstall.ps1
+c:\users\admin\documents\visual studio 2015\Projects\ObasAnalyzerVB\ObasAnalyzerVB\ObasAnalyzerVB\bin\Debug\ObasAnalyzerVB.dll
+c:\users\admin\documents\visual studio 2015\Projects\ObasAnalyzerVB\ObasAnalyzerVB\ObasAnalyzerVB\bin\Debug\ObasAnalyzerVB.pdb
+c:\users\admin\documents\visual studio 2015\Projects\ObasAnalyzerVB\ObasAnalyzerVB\ObasAnalyzerVB\obj\Debug\ObasAnalyzerVB.dll
+c:\users\admin\documents\visual studio 2015\Projects\ObasAnalyzerVB\ObasAnalyzerVB\ObasAnalyzerVB\obj\Debug\ObasAnalyzerVB.pdb
+C:\Users\Admin\documents\visual studio 2015\Projects\ObasAnalyzerVB\ObasAnalyzerVB\ObasAnalyzerVB\obj\Debug\ObasAnalyzerVB.vbprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\ObasAnalyzerCSharp\ObasAnalyzerCSharp\ObasAnalyzerCSharp\bin\Debug\netstandard2.0\ObasAnalyzerCSharp.deps.json
+C:\Users\Admin\source\repos\ObasAnalyzerCSharp\ObasAnalyzerCSharp\ObasAnalyzerCSharp\bin\Debug\netstandard2.0\ObasAnalyzerCSharp.dll
+C:\Users\Admin\source\repos\ObasAnalyzerCSharp\ObasAnalyzerCSharp\ObasAnalyzerCSharp\bin\Debug\netstandard2.0\ObasAnalyzerCSharp.pdb
+C:\Users\Admin\source\repos\ObasAnalyzerCSharp\ObasAnalyzerCSharp\ObasAnalyzerCSharp\obj\Debug\netstandard2.0\ObasAnalyzerCSharp.Resources.resources
+C:\Users\Admin\source\repos\ObasAnalyzerCSharp\ObasAnalyzerCSharp\ObasAnalyzerCSharp\obj\Debug\netstandard2.0\ObasAnalyzerCSharp.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ObasAnalyzerCSharp\ObasAnalyzerCSharp\ObasAnalyzerCSharp\obj\Debug\netstandard2.0\ObasAnalyzerCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ObasAnalyzerCSharp\ObasAnalyzerCSharp\ObasAnalyzerCSharp\obj\Debug\netstandard2.0\ObasAnalyzerCSharp.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ObasAnalyzerCSharp\ObasAnalyzerCSharp\ObasAnalyzerCSharp\obj\Debug\netstandard2.0\ObasAnalyzerCSharp.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ObasAnalyzerCSharp\ObasAnalyzerCSharp\ObasAnalyzerCSharp\obj\Debug\netstandard2.0\ObasAnalyzerCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ObasAnalyzerCSharp\ObasAnalyzerCSharp\ObasAnalyzerCSharp\obj\Debug\netstandard2.0\ObasAnalyzerCSharp.dll
+C:\Users\Admin\source\repos\ObasAnalyzerCSharp\ObasAnalyzerCSharp\ObasAnalyzerCSharp\obj\Debug\netstandard2.0\ObasAnalyzerCSharp.pdb
